@@ -4,7 +4,7 @@ Proposte di progetti collaborativi.
 
 Questo progetto fa parte del contenitore [Open Desio](http://open.desio.org).
 
-[Guarda tutti i Progetti](https://github.com/open-comune/progetta-desio/issues).
+Guarda la [lista di tutti i Progetti](https://github.com/open-comune/progetta-desio/issues) e vedi lo [stato di avanzamento corrente](https://github.com/open-comune/progetta-desio/projects/1).
 
 Se vuoi partecipare:
 
