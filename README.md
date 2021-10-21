@@ -2,7 +2,7 @@
 
 Proposte di progetti collaborativi.
 
-Questo progetto fa parte del contenitore [Open Desio](http://open.desio.org).
+Questo progetto fa parte del contenitore [Open Desio](https://github.com/open-comune/desio).
 
 Guarda la [lista di tutti i Progetti](https://github.com/open-comune/progetta-desio/issues) e vedi lo [stato di avanzamento corrente](https://github.com/open-comune/progetta-desio/projects/1).
 
